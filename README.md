@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">A passionate Java full stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D22AQFOiE5Ote9koQ/feedshare-shrink_1280/0/1698233447808?e=1718841600&v=beta&t=m1EjVLPtrBNeoMFjP3T17tv9zmOPKsc4HQP4FpAQrvM">
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/x4V8Dg11NREDSW3z5">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebyakash&label=Profile%20views&color=0e75b6&style=flat" alt="codebyakash" /> </p>
 
