@@ -1,4 +1,4 @@
-![logo](https://github.com/codebyakash/codebyakash/blob/main/github%20banner.png)
+![logo](https://github.com/codebyakash/codebyakash/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">A passionate Java full stack developer from India</h3>
 
